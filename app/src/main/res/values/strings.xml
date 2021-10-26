@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="peso">Weight in Kg</string>
+    <string name="estatura">Stature in m</string>
+    <string name="calcular">Calculate</string>
+    <string name="indice1">Malnourished</string>
+    <string name="indice2">Low in weight</string>
+    <string name="indice3">Normal weight</string>
+    <string name="indice4">Overweight</string>
+</resources>

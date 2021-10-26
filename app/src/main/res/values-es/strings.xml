@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="peso">Peso en Kg</string>
+    <string name="estatura">Estatura en m</string>
+    <string name="calcular">Calcular</string>
+    <string name="indice1">Desnutrición</string>
+    <string name="indice2">Bajo en peso</string>
+    <string name="indice3">Peso normal</string>
+    <string name="indice4">Sobrepeso</string>
+</resources>
